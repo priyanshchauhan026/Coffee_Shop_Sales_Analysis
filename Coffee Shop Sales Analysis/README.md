@@ -38,8 +38,3 @@ The analysis is based on the `Coffee Shop Sales.csv` dataset, which contains 149
 * Monthly Revenue Analysis: Tracking business growth and seasonal trends.
 * Total Orders & Revenue by Product Category: Understanding what drives the most sales volume vs. actual revenue.
 * Top 10 Products: A breakdown of the absolute best-selling items.
-
-## How to Run the Project
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/priyanshchauhan026/Coffee_Shop_Sales_Analysis.git](https://github.com/priyanshchauhan026/Coffee_Shop_Sales_Analysis.git)
